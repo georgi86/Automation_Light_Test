@@ -1,0 +1,299 @@
+﻿<repository
+id="93a7f3dd-c864-4afb-8a66-974b84710a7f"
+name="LightsRepository"
+rxversion="7.0">
+	<codegen
+	classname="LightsRepository"
+	namespace="Lights">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="29f64987-f249-458e-8d6c-db51c9bfb0fe"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="bbfa4216-fd0e-4577-8eec-e506f09faa6d"
+		isrooted="True"
+		name="SnapXUntitled"
+		refpath="/form[@title='Snap-X - [Untitled]']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<folder
+			addcaps="container,nativewindow"
+			capname="container"
+			id="e71168c8-7fb4-4db8-be3e-f276b5310e52"
+			isrooted="True"
+			name="Container59648"
+			refpath="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="2b99fed4-8d70-4cea-b8a1-946df10a6b57"
+				name="BackLightFFW"
+				refimgid="1d4b04ae-9682-405d-9a79-d944c28dc3f6"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1017']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="f5d08b2f-0dab-4ca9-a891-4c9712673e3d"
+				name="BackLightBigMode"
+				refimgid="dbd90282-bacc-44cc-9bab-17346f15afce"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//text[@controlid='1017']
+				</item>
+				<item
+				addcaps="button,nativeitem,checkable"
+				capname="button"
+				id="62631786-bdbd-4c71-8837-a8f882dd6992"
+				name="SwitchFromBigToFFW"
+				refimgid="dbb72011-c7fe-4c25-b4cc-4276381d7687"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//toolbar[@class='ToolbarWindow32']/button[@commandid='40028']
+				</item>
+				<item
+				addcaps="button,nativeitem,checkable"
+				capname="button"
+				id="64b276f9-74c7-477e-b359-bf9294409886"
+				name="SwitchFromFFWToBig"
+				refimgid="b235a690-c924-4419-86da-fa8ef9181172"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form/?/?/element/element/toolbar/button[@commandid='40029']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="3ddfe7e2-b3cf-410f-bb2b-f13ca30dab76"
+				name="SurfaceLightBigMode"
+				refimgid="d11ecc10-94c8-4c41-bb00-ecb4adf65fa9"
+				refpath="/form[@title='Snap-X - [Untitled]']/container/form[@controlid='65281']/element/element[@controlid='59648']/container/text[@controlid='1018']"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//text[@controlid='1018']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="0782b0cf-26b8-4adf-8960-ba1cfafdfc0b"
+				name="SurfaceLightFFW"
+				refimgid="586be50d-1022-4e8a-b7da-418f6d9570f3"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1018']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="245dbc65-0b63-4794-8844-5311bf28427e"
+				name="SRLBigMode"
+				refimgid="f27bd054-4b35-4535-8f88-27ef40eee327"
+				refpath="/form[@title='Snap-X - [Untitled]']/container/form[@controlid='65281']/element/element[@controlid='59648']/container/text[@controlid='1015']"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//text[@controlid='1015']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="dceefa5f-d28d-487a-9ff3-17431b3177b5"
+				name="SRLFFW"
+				refimgid="44f4e1ad-f2ea-4fca-8687-43a7493e7e21"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1015']
+				</item>
+				<item
+				addcaps="slider,nativewindow"
+				capname="slider"
+				id="452a560a-dfc5-4af3-ab54-df3ef3a9cdfe"
+				name="SRLSlider"
+				refimgid="03400525-cdca-4328-98e0-e5df937d4d1d"
+				searchtimeout="30000ms">
+					<image
+					guid="9d956714-8673-42f9-9625-19e1455b9737"
+					name="Screenshot1">
+						iVBORw0KGgoAAAANSUhEUgAAACgAAAB3CAYAAABxJgJPAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJVSURBVHhe7ZzJiupAGEb7dRVEN658B3GpXHHY
+uHDlwml7e6WICIIDoiAINjTazoIT/71VxJBETSqpRIX+DhwQa8ihUlv9WC6X9K6wtg/l89uCQFkQ
+KAsCZdEFZjKZG/8kk1QoFLg/i8XNuNfcBPp8Pp0s7Ov7m3u5XHRjk8lEWekddwO1GAO1IPA/rgf2
+ej0pjbxFoBkIFNEMBIpoBgJFNOPlgVYg0EorEGilFQi00goEmikCAs0UAYFmioBAM0V4aeA9jbws
+UBQEPlIUBD5SFAQ+UpSXBNoBgfe0AwLvaQcE3tMOCDRqFwQatQsCjdoFgUbt8tRAJzz9BK00ghPU
+6gQEanUCArU64WmBTkHgVacg8KpTEHjVKQiUiWMgEIEItACBsiDQrkZwgrIgUJbfHegGCJQFgbIg
+UJbfG+gWCJRFDWw0GhSJRCgUCgmbTqf579C1eBYYi8VoNBrR+XwWtlqtUjabpfl8ruziYSA7EfbQ
+9Xot5Ha75fMrlQolk0k10tPA0+lEi8VC2NVqxdeUy2U10tPA4/FIs9nMliyUrSsWi5TL5ajdbis7
+uoMucL/f03A4tOV4PObrWCC7x7VaTdnRHXSBu92O+v2+sCyQrSmVShQIBCifz3sbyC4+e0Uidrtd
+Pp/dP7/fT4lEggaDAR+73kMnGlEDo9Eon7DZbIRlJ8fi4vE4jzscDspu7qEG1ut1CofD/CRFDQaD
+lEqlPItjqIEMdp/YpWevqdVqcf9+flKz2VS9fs/sdDo0nU49i2PoAt8RBMqCQFkQKMub/2vUkv4B
+JKSIhqMl/UUAAAAASUVORK5CYII=
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//slider[@controlid='4115']
+				</item>
+				<item
+				addcaps="slider,nativewindow"
+				capname="slider"
+				id="9d31a0fb-b157-45c1-b0e7-2970b994eb3a"
+				name="SurfaceSlider"
+				refimgid="93c975bb-743f-4cd6-868b-7301d32298c8"
+				searchtimeout="30000ms">
+					<image
+					guid="35a10a0b-cf86-418b-8e1a-591a8fec9d3c"
+					name="Screenshot1">
+						iVBORw0KGgoAAAANSUhEUgAAACgAAAB3CAYAAABxJgJPAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJVSURBVHhe7ZzJiupAGEb7dRVEN658B3GpXHHY
+uHDlwml7e6WICIIDoiAINjTazoIT/71VxJBETSqpRIX+DhwQa8ihUlv9WC6X9K6wtg/l89uCQFkQ
+KAsCZdEFZjKZG/8kk1QoFLg/i8XNuNfcBPp8Pp0s7Ov7m3u5XHRjk8lEWekddwO1GAO1IPA/rgf2
+ej0pjbxFoBkIFNEMBIpoBgJFNOPlgVYg0EorEGilFQi00goEmikCAs0UAYFmioBAM0V4aeA9jbws
+UBQEPlIUBD5SFAQ+UpSXBNoBgfe0AwLvaQcE3tMOCDRqFwQatQsCjdoFgUbt8tRAJzz9BK00ghPU
+6gQEanUCArU64WmBTkHgVacg8KpTEHjVKQiUiWMgEIEItACBsiDQrkZwgrIgUJbfHegGCJQFgbIg
+UJbfG+gWCJRFDWw0GhSJRCgUCgmbTqf579C1eBYYi8VoNBrR+XwWtlqtUjabpfl8ruziYSA7EfbQ
+9Xot5Ha75fMrlQolk0k10tPA0+lEi8VC2NVqxdeUy2U10tPA4/FIs9nMliyUrSsWi5TL5ajdbis7
+uoMucL/f03A4tOV4PObrWCC7x7VaTdnRHXSBu92O+v2+sCyQrSmVShQIBCifz3sbyC4+e0Uidrtd
+Pp/dP7/fT4lEggaDAR+73kMnGlEDo9Eon7DZbIRlJ8fi4vE4jzscDspu7qEG1ut1CofD/CRFDQaD
+lEqlPItjqIEMdp/YpWevqdVqcf9+flKz2VS9fs/sdDo0nU49i2PoAt8RBMqCQFkQKMub/2vUkv4B
+JKSIhqMl/UUAAAAASUVORK5CYII=
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//slider[@controlid='4112']
+				</item>
+				<item
+				addcaps="slider,nativewindow"
+				capname="slider"
+				id="932d8258-c4ea-4277-bfc8-92c5a64d2faa"
+				name="BackSlider"
+				refimgid="493bf465-b741-4da2-b6cf-398e9bed1b25"
+				searchtimeout="30000ms">
+					<image
+					guid="2de6aa91-6f6b-4977-9b96-3c81af88439f"
+					name="Screenshot1">
+						iVBORw0KGgoAAAANSUhEUgAAACgAAAB3CAYAAABxJgJPAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJVSURBVHhe7ZzJiupAGEb7dRVEN658B3GpXHHY
+uHDlwml7e6WICIIDoiAINjTazoIT/71VxJBETSqpRIX+DhwQa8ihUlv9WC6X9K6wtg/l89uCQFkQ
+KAsCZdEFZjKZG/8kk1QoFLg/i8XNuNfcBPp8Pp0s7Ov7m3u5XHRjk8lEWekddwO1GAO1IPA/rgf2
+ej0pjbxFoBkIFNEMBIpoBgJFNOPlgVYg0EorEGilFQi00goEmikCAs0UAYFmioBAM0V4aeA9jbws
+UBQEPlIUBD5SFAQ+UpSXBNoBgfe0AwLvaQcE3tMOCDRqFwQatQsCjdoFgUbt8tRAJzz9BK00ghPU
+6gQEanUCArU64WmBTkHgVacg8KpTEHjVKQiUiWMgEIEItACBsiDQrkZwgrIgUJbfHegGCJQFgbIg
+UJbfG+gWCJRFDWw0GhSJRCgUCgmbTqf579C1eBYYi8VoNBrR+XwWtlqtUjabpfl8ruziYSA7EfbQ
+9Xot5Ha75fMrlQolk0k10tPA0+lEi8VC2NVqxdeUy2U10tPA4/FIs9nMliyUrSsWi5TL5ajdbis7
+uoMucL/f03A4tOV4PObrWCC7x7VaTdnRHXSBu92O+v2+sCyQrSmVShQIBCifz3sbyC4+e0Uidrtd
+Pp/dP7/fT4lEggaDAR+73kMnGlEDo9Eon7DZbIRlJ8fi4vE4jzscDspu7qEG1ut1CofD/CRFDQaD
+lEqlPItjqIEMdp/YpWevqdVqcf9+flKz2VS9fs/sdDo0nU49i2PoAt8RBMqCQFkQKMub/2vUkv4B
+JKSIhqMl/UUAAAAASUVORK5CYII=
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//slider[@controlid='4117']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="24270176-0c40-407e-b10f-199d1cb738c9"
+				name="BoostFFW"
+				refimgid="a374be3e-3019-431b-8702-0ba3f81c2fc6"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1012']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="1d90b1ee-f5a3-4cac-9e8b-d96d4de28f63"
+				name="BoostBigMode"
+				refimgid="15c5b101-b9e2-4836-9387-6f8b9d795893"
+				refpath="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']/element[@controlid='59648']/element[@controlid='59648']/container[@class='#32770']/text[@controlid='1012']"
+				searchtimeout="30000ms">
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//text[@controlid='1012']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="1660551c-9cde-4bae-9109-e403aab36d79"
+				name="SRLImageFFW"
+				refimgid="b4b71303-e8bf-4330-9200-07ccdf898cd8"
+				searchtimeout="30000ms">
+					<image
+					guid="012bfc1e-7e72-4697-9a28-f3ff1e66303c"
+					name="Screenshot2">
+						iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHHSURBVGhD7ZIJbsMwDAT9/9f6B0k3AAGWXYqH
+JCdITWCQViLpHSfHeZ6Pb+AW8TiOI4TNzbJERIfMlO5n+zq0RXQYXazXokvvYb1ZWiKV8FFIXTMy
+JREJhWL3DJnJhERley1pESyXYvcMCaVhfRop9KJYDyMlUl0KdHgL62egN/vcUKSyzKMS3pJ9/lBk
+hQSYEQGZHK4IG+4Gqs6x/kimJCLn9iyiMuP1tkTCoaJMtj/qG+X6IxJJdKiKj/Dy3SIVLhfZIQFW
+igCWc5uIrtUv6DIRb4d3XmUosltCwHPYeRWbd6lIdn6FzDaR6uyszP8Swd+C3EfIbJbKbmAz4VM/
+8/5pWaqzHysCsvOzEmCrCIhCrpAArgi77OKF3SXxOvv1zyIRgF0W1tcBu2zObSI7CUVeBx8u4+W7
+Rd5FWuR1+KEyo1xUBAyHfu7Y+SyjvdHLLYvskhC8/W0RYId3Swj2OZEEGIqAzJKdZJ8fioCrvglL
+5SWmRMDVMtVfQloEheVVoU5/VQKkRYBUJVy1V4rdjyiJCCh5c1HQzL2AYj0ZWiJAlw7Dei26Xxfr
+zdIW0ejSIT10sX0dlohoMsXmZlku8i6+ROR8PAHB7jgPYENvWwAAAABJRU5ErkJggg==
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1008']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="cb616301-7567-4343-a859-86bb184acdf8"
+				name="SurfaceImageFFW"
+				refimgid="8b2b12fb-1fe4-4ca0-9833-03623a409a0f"
+				searchtimeout="30000ms">
+					<image
+					guid="4bd8910b-60a0-4f24-8e65-eaacd95a97a9"
+					name="Screenshot2">
+						iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHHSURBVGhD7ZIJbsMwDAT9/9f6B0k3AAGWXYqH
+JCdITWCQViLpHSfHeZ6Pb+AW8TiOI4TNzbJERIfMlO5n+zq0RXQYXazXokvvYb1ZWiKV8FFIXTMy
+JREJhWL3DJnJhERley1pESyXYvcMCaVhfRop9KJYDyMlUl0KdHgL62egN/vcUKSyzKMS3pJ9/lBk
+hQSYEQGZHK4IG+4Gqs6x/kimJCLn9iyiMuP1tkTCoaJMtj/qG+X6IxJJdKiKj/Dy3SIVLhfZIQFW
+igCWc5uIrtUv6DIRb4d3XmUosltCwHPYeRWbd6lIdn6FzDaR6uyszP8Swd+C3EfIbJbKbmAz4VM/
+8/5pWaqzHysCsvOzEmCrCIhCrpAArgi77OKF3SXxOvv1zyIRgF0W1tcBu2zObSI7CUVeBx8u4+W7
+Rd5FWuR1+KEyo1xUBAyHfu7Y+SyjvdHLLYvskhC8/W0RYId3Swj2OZEEGIqAzJKdZJ8fioCrvglL
+5SWmRMDVMtVfQloEheVVoU5/VQKkRYBUJVy1V4rdjyiJCCh5c1HQzL2AYj0ZWiJAlw7Dei26Xxfr
+zdIW0ejSIT10sX0dlohoMsXmZlku8i6+ROR8PAHB7jgPYENvWwAAAABJRU5ErkJggg==
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1011']
+				</item>
+				<item
+				addcaps="text,nativewindow"
+				capname="text"
+				id="bcb1fad5-117d-465d-a94c-22f365eb56c2"
+				name="BackImageFFW"
+				refimgid="5fec4685-243f-4820-b58a-8b33ad9e1ef2"
+				searchtimeout="30000ms">
+					<image
+					guid="52070a31-448a-412e-b794-eb246ca7f9ae"
+					name="Screenshot2">
+						iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHHSURBVGhD7ZIJbsMwDAT9/9f6B0k3AAGWXYqH
+JCdITWCQViLpHSfHeZ6Pb+AW8TiOI4TNzbJERIfMlO5n+zq0RXQYXazXokvvYb1ZWiKV8FFIXTMy
+JREJhWL3DJnJhERley1pESyXYvcMCaVhfRop9KJYDyMlUl0KdHgL62egN/vcUKSyzKMS3pJ9/lBk
+hQSYEQGZHK4IG+4Gqs6x/kimJCLn9iyiMuP1tkTCoaJMtj/qG+X6IxJJdKiKj/Dy3SIVLhfZIQFW
+igCWc5uIrtUv6DIRb4d3XmUosltCwHPYeRWbd6lIdn6FzDaR6uyszP8Swd+C3EfIbJbKbmAz4VM/
+8/5pWaqzHysCsvOzEmCrCIhCrpAArgi77OKF3SXxOvv1zyIRgF0W1tcBu2zObSI7CUVeBx8u4+W7
+Rd5FWuR1+KEyo1xUBAyHfu7Y+SyjvdHLLYvskhC8/W0RYId3Swj2OZEEGIqAzJKdZJ8fioCrvglL
+5SWmRMDVMtVfQloEheVVoU5/VQKkRYBUJVy1V4rdjyiJCCh5c1HQzL2AYj0ZWiJAlw7Dei26Xxfr
+zdIW0ejSIT10sX0dlohoMsXmZlku8i6+ROR8PAHB7jgPYENvWwAAAABJRU5ErkJggg==
+					</image>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form//element[@controlid='59648']/container[@class='#32770']/text[@controlid='1010']
+				</item>
+				<basepath>
+					/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@title='Snap-X - [Untitled]']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGqSURBVDhPjVM9SwNBEF2/EcUuaJLdvd1LqihY
+BBFtRPAfWKkgWNpZqKUpLARLCzEggk0gweQuKURtBCsFwcJGsRLsLAQFBRXju73R3MUoPnjs3bx5
+s7Ozd+wLTlxPukJX/+AGpX4jm0630SNjGcaaHaGvGhgNHa6O8n3JiMv1DLiF2IUj1BvZfRixgdmQ
+q1es7/67OnOEtVCWUpPVR4GxFojXISPR4foFG2TLItFP6Y1REno+ZESbnrEoZZRSfofL7TkkP9QK
+qMtiXA2S/AOFVKrdf4ikurFTsW7nnf1kssMkEA57e7twlGlwFwNfrXA9xPKcd2JAJ2GzXiePwZ6U
+NrrZRtFHrDnHshRJXttqM2gGD6qMNXmat0JfQuzZaNjImIKAQFfjs8jtAZK84pmghs7uSKohlICr
+orAB2p0N6h4xlx6SfaDqRygpbo2TxI7ZWCvOfRPUHZlIk+wDn+hauIh6Qmy5ErWlp9d3UeL2lDEG
+gaqjZrpC3QeT8X6L4qfBGOayQrbGcIWIlWLWiCv1hGFcDaOjxVoRlaPU/8ObBYz+P8LVOYUBxj4B
+q6oLt3Pkl98AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

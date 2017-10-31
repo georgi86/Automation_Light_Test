@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# Ranorex Studio 7.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E83DA8D5-38DC-4CB1-A2FF-F11E08E94D2F}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lights", "Lights\Lights.csproj", "{BA6EF10F-4C65-4630-86E6-A68B7DEE573B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6EF10F-4C65-4630-86E6-A68B7DEE573B}.Debug|x86.Build.0 = Debug|x86
+		{BA6EF10F-4C65-4630-86E6-A68B7DEE573B}.Debug|x86.ActiveCfg = Debug|x86
+		{BA6EF10F-4C65-4630-86E6-A68B7DEE573B}.Release|x86.Build.0 = Release|x86
+		{BA6EF10F-4C65-4630-86E6-A68B7DEE573B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
