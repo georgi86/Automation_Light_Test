@@ -395,6 +395,10 @@ namespace Lights
                 Delay.Milliseconds(100);
             } catch(Exception ex) { Report.Log(ReportLevel.Warn, "Module", "(Optional Action) " + ex.Message, new RecordItemIndex(64)); }
             
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'SnapXUntitled.Container59648.SwitchFromFFWToBig' at Center.", repo.SnapXUntitled.Container59648.SwitchFromFFWToBigInfo, new RecordItemIndex(65));
+            repo.SnapXUntitled.Container59648.SwitchFromFFWToBig.Click();
+            Delay.Milliseconds(200);
+            
         }
 
 #region Image Feature Data
